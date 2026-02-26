@@ -1,0 +1,15 @@
+{
+    "coda_api_token": "",
+    "continue_on_error": "true",
+    "tables": [
+      {
+        "doc_id": "",
+        "table_id": "",
+        "destination_table": "",
+        "page_size": "",
+        "query_column": "",
+        "query_value": "",
+        "unique_column": ""
+      }
+    ]
+  }
