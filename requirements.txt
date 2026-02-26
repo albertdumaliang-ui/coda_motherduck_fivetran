@@ -1,2 +1,15 @@
-fastapi
-fivetran-connector-sdk
+annotated-doc==0.0.4
+annotated-types==0.7.0
+anyio==4.12.1
+certifi==2026.2.25
+charset-normalizer==3.4.4
+fastapi==0.133.1
+idna==3.11
+pydantic==2.12.5
+pydantic_core==2.41.5
+requests==2.32.5
+starlette==0.52.1
+typing==3.7.4.3
+typing-inspection==0.4.2
+typing_extensions==4.15.0
+urllib3==2.6.3
